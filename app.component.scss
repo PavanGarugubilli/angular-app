@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Saira:wght@400;800;900&display=swap");
+h1 {
+  font-family: "Saira", sans-serif;
+}
+
+.thead {
+    border-top: 5px solid skyblue;
+    border-bottom: 4px solid orange;
+  }
+  table {
+    border: 1px solid gray;
+    font-family: "Noto Sans", sans-serif;
+  }
+  tr,thead,tbody{
+    border: 2px solid gray;
+  }
+  
